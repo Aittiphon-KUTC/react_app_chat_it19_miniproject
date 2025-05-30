@@ -11,10 +11,12 @@ import { getStorage } from 'firebase/storage';
 const firebaseConfig = {
   apiKey: "AIzaSyD-3mNM9XkOesnH8VuzyEUsjIa7nenwITg",
   authDomain: "chat-react-app-test-dc3b6.firebaseapp.com",
+  databaseURL: "https://chat-react-app-test-dc3b6-default-rtdb.firebaseio.com",
   projectId: "chat-react-app-test-dc3b6",
   storageBucket: "chat-react-app-test-dc3b6.firebasestorage.app",
   messagingSenderId: "435009631503",
   appId: "1:435009631503:web:13ee5fd4a2ee8d6d31ba7a",
+  measurementId: "G-BCHJKFKGMD",
   databaseURL : "http://chat-react-app-test-dc3b6.firebaseio.com"
 };
 
