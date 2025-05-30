@@ -15,7 +15,7 @@ const firebaseConfig = {
   storageBucket: "chat-react-app-test-dc3b6.firebasestorage.app",
   messagingSenderId: "435009631503",
   appId: "1:435009631503:web:13ee5fd4a2ee8d6d31ba7a",
-  databaseURL : "https://chat-react-app-test-dc3b6.firebaseio.com"
+  databaseURL : "http://chat-react-app-test-dc3b6.firebaseio.com"
 };
 
 // Initialize Firebase
