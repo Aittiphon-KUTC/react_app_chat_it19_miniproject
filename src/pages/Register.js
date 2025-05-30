@@ -67,7 +67,7 @@ const handSubmit = async e =>{//คำสั่งเมื่อการกด
 }
   return (
   <section>
-      <h1>สมัครสมาชิกใหม่</h1>
+      <h1>สมัครสมาชิกใหม่ ทำไม</h1>
       <img src={Logo} className="logo"></img>
       <form className="form" onSubmit={handSubmit}>
         <div className="input_container">
